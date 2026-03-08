@@ -1,0 +1,31 @@
+---
+title: "Starter Notebook"
+author: "Alule Robert"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Overview
+
+This is a starter R Markdown notebook. Replace this content with your
+documented analysis.
+
+## Load Libraries
+
+```{r libraries}
+# library(tidyverse)  # Uncomment when needed
+# library(ggplot2)
+```
+
+## Analysis
+
+Add your analysis code here.
+
+```{r analysis}
+# Example: print a summary
+message("Notebook loaded successfully.")
+```
