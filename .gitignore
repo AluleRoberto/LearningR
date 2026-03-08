@@ -1,0 +1,12 @@
+# Data directory – kept local, not tracked by Git
+data/
+
+# R-specific ignores
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Common OS files
+.DS_Store
+Thumbs.db
